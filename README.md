@@ -8,7 +8,8 @@ Refactoring existing code (improving it without changing what it does) to meet a
 <img width="40" alt="badge3" src="https://img.shields.io/badge/-HTML-red"> 
 </p>
 
-# Deployed Screenshot
+
+# Deployed Link
 
 https://toma95s.github.io/code_refactor/
 
